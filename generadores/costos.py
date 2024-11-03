@@ -72,28 +72,3 @@ guardar_tabla_en_archivo(letras, valores, "res/cost_delete.txt")
 
 letras, valores = generar_tabla()
 guardar_tabla_en_archivo(letras, valores, "res/cost_insert.txt")
-
-
-
-
-
-
-
-
-
-# import random
-# abc_ingles = "abcdefghijklmnopqrstuvwxyz"
-# with open("costos.txt", "w") as archivo:
-#     archivo.write("caracter costo_sub costo_ins costo_del costo_trans\n")
-#     flag = False
-#     for i in range(26):
-#         if i == 25:
-#             flag = True
-#         costo_sub = random.randint(1, 9)
-#         costo_ins = random.randint(1, 9)
-#         costo_del = random.randint(1, 9)
-#         costo_trans = random.randint(1, 9)
-#         if flag:
-#             archivo.write(abc_ingles[i] + " " + str(costo_sub) + " " + str(costo_ins) + " " + str(costo_del) + " " + str(costo_trans)) 
-#         else:
-#             archivo.write(abc_ingles[i] + " " + str(costo_sub) + " " + str(costo_ins) + " " + str(costo_del) + " " + str(costo_trans) + "\n") 
