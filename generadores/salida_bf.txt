@@ -1,1199 +1,1211 @@
-La distancia de edición mínima entre "" y "aecdvlxuuw" es: 42
-Tiempo de ejecución: 225040 nanosegundos
+La distancia de edición mínima entre "" y "pkcunbkv" es: 46
+Tiempo de ejecución: 5028 nanosegundos
 Operaciones utilizadas: 
-Costo de insertar 'w': 6
-Costo de insertar 'u': 3
-Costo de insertar 'u': 3
-Costo de insertar 'x': 5
-Costo de insertar 'l': 3
 Costo de insertar 'v': 6
-Costo de insertar 'd': 5
-Costo de insertar 'c': 3
-Costo de insertar 'e': 6
-Costo de insertar 'a': 2
-----------------------
-La distancia de edición mínima entre "" y "dvvltvin" es: 38
-Tiempo de ejecución: 3188 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'n': 6
-Costo de insertar 'i': 2
-Costo de insertar 'v': 6
-Costo de insertar 't': 4
-Costo de insertar 'l': 3
-Costo de insertar 'v': 6
-Costo de insertar 'v': 6
-Costo de insertar 'd': 5
-----------------------
-La distancia de edición mínima entre "" y "dp" es: 12
-Tiempo de ejecución: 651 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'p': 7
-Costo de insertar 'd': 5
-----------------------
-La distancia de edición mínima entre "" y "txbyglauj" es: 34
-Tiempo de ejecución: 1576 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'j': 1
-Costo de insertar 'u': 3
-Costo de insertar 'a': 2
-Costo de insertar 'l': 3
-Costo de insertar 'g': 6
-Costo de insertar 'y': 1
-Costo de insertar 'b': 9
-Costo de insertar 'x': 5
-Costo de insertar 't': 4
-----------------------
-La distancia de edición mínima entre "" y "jktbwa" es: 28
-Tiempo de ejecución: 1006 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'a': 2
-Costo de insertar 'w': 6
-Costo de insertar 'b': 9
-Costo de insertar 't': 4
 Costo de insertar 'k': 6
-Costo de insertar 'j': 1
-----------------------
-La distancia de edición mínima entre "" y "s" es: 6
-Tiempo de ejecución: 493 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 's': 6
-----------------------
-La distancia de edición mínima entre "" y "writsqn" es: 29
-Tiempo de ejecución: 1090 nanosegundos
-Operaciones utilizadas: 
+Costo de insertar 'b': 9
 Costo de insertar 'n': 6
+Costo de insertar 'u': 3
+Costo de insertar 'c': 3
+Costo de insertar 'k': 6
+Costo de insertar 'p': 7
+----------------------
+La distancia de edición mínima entre "" y "hreqzoofqb" es: 44
+Tiempo de ejecución: 3075 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'b': 9
+Costo de insertar 'q': 4
+Costo de insertar 'f': 6
+Costo de insertar 'o': 3
+Costo de insertar 'o': 3
+Costo de insertar 'z': 6
+Costo de insertar 'q': 4
+Costo de insertar 'e': 6
+Costo de insertar 'r': 1
+Costo de insertar 'h': 2
+----------------------
+La distancia de edición mínima entre "" y "ptmhhqvh" es: 29
+Tiempo de ejecución: 1012 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'h': 2
+Costo de insertar 'v': 6
+Costo de insertar 'q': 4
+Costo de insertar 'h': 2
+Costo de insertar 'h': 2
+Costo de insertar 'm': 2
+Costo de insertar 't': 4
+Costo de insertar 'p': 7
+----------------------
+La distancia de edición mínima entre "" y "w" es: 6
+Tiempo de ejecución: 261 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'w': 6
+----------------------
+La distancia de edición mínima entre "" y "eagzibnaaj" es: 42
+Tiempo de ejecución: 1186 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'j': 1
+Costo de insertar 'a': 2
+Costo de insertar 'a': 2
+Costo de insertar 'n': 6
+Costo de insertar 'b': 9
+Costo de insertar 'i': 2
+Costo de insertar 'z': 6
+Costo de insertar 'g': 6
+Costo de insertar 'a': 2
+Costo de insertar 'e': 6
+----------------------
+La distancia de edición mínima entre "" y "wkpttggf" es: 45
+Tiempo de ejecución: 995 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'f': 6
+Costo de insertar 'g': 6
+Costo de insertar 'g': 6
+Costo de insertar 't': 4
+Costo de insertar 't': 4
+Costo de insertar 'p': 7
+Costo de insertar 'k': 6
+Costo de insertar 'w': 6
+----------------------
+La distancia de edición mínima entre "" y "aihcbrflq" es: 32
+Tiempo de ejecución: 1014 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'q': 4
+Costo de insertar 'l': 3
+Costo de insertar 'f': 6
+Costo de insertar 'r': 1
+Costo de insertar 'b': 9
+Costo de insertar 'c': 3
+Costo de insertar 'h': 2
+Costo de insertar 'i': 2
+Costo de insertar 'a': 2
+----------------------
+La distancia de edición mínima entre "" y "tv" es: 10
+Tiempo de ejecución: 385 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'v': 6
+Costo de insertar 't': 4
+----------------------
+La distancia de edición mínima entre "" y "hg" es: 8
+Tiempo de ejecución: 295 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'g': 6
+Costo de insertar 'h': 2
+----------------------
+La distancia de edición mínima entre "" y "wsqld" es: 24
+Tiempo de ejecución: 639 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'd': 5
+Costo de insertar 'l': 3
 Costo de insertar 'q': 4
 Costo de insertar 's': 6
-Costo de insertar 't': 4
-Costo de insertar 'i': 2
-Costo de insertar 'r': 1
 Costo de insertar 'w': 6
 ----------------------
-La distancia de edición mínima entre "" y "k" es: 6
-Tiempo de ejecución: 284 nanosegundos
+La distancia de edición mínima entre "" y "vaquliu" es: 23
+Tiempo de ejecución: 743 nanosegundos
 Operaciones utilizadas: 
-Costo de insertar 'k': 6
-----------------------
-La distancia de edición mínima entre "" y "m" es: 2
-Tiempo de ejecución: 238 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'm': 2
-----------------------
-La distancia de edición mínima entre "" y "sbkp" es: 28
-Tiempo de ejecución: 619 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'p': 7
-Costo de insertar 'k': 6
-Costo de insertar 'b': 9
-Costo de insertar 's': 6
-----------------------
-La distancia de edición mínima entre "" y "oy" es: 4
-Tiempo de ejecución: 425 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'y': 1
-Costo de insertar 'o': 3
-----------------------
-La distancia de edición mínima entre "" y "runlpdpfn" es: 44
-Tiempo de ejecución: 1425 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'n': 6
-Costo de insertar 'f': 6
-Costo de insertar 'p': 7
-Costo de insertar 'd': 5
-Costo de insertar 'p': 7
-Costo de insertar 'l': 3
-Costo de insertar 'n': 6
 Costo de insertar 'u': 3
-Costo de insertar 'r': 1
+Costo de insertar 'i': 2
+Costo de insertar 'l': 3
+Costo de insertar 'u': 3
+Costo de insertar 'q': 4
+Costo de insertar 'a': 2
+Costo de insertar 'v': 6
 ----------------------
-La distancia de edición mínima entre "" y "rdztspoc" es: 35
-Tiempo de ejecución: 1096 nanosegundos
+La distancia de edición mínima entre "" y "elq" es: 13
+Tiempo de ejecución: 530 nanosegundos
 Operaciones utilizadas: 
-Costo de insertar 'c': 3
-Costo de insertar 'o': 3
-Costo de insertar 'p': 7
-Costo de insertar 's': 6
-Costo de insertar 't': 4
+Costo de insertar 'q': 4
+Costo de insertar 'l': 3
+Costo de insertar 'e': 6
+----------------------
+La distancia de edición mínima entre "" y "qijszigf" es: 33
+Tiempo de ejecución: 902 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'f': 6
+Costo de insertar 'g': 6
+Costo de insertar 'i': 2
 Costo de insertar 'z': 6
-Costo de insertar 'd': 5
-Costo de insertar 'r': 1
-----------------------
-La distancia de edición mínima entre "" y "divzhovjx" es: 36
-Tiempo de ejecución: 1199 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'x': 5
+Costo de insertar 's': 6
 Costo de insertar 'j': 1
-Costo de insertar 'v': 6
-Costo de insertar 'o': 3
+Costo de insertar 'i': 2
+Costo de insertar 'q': 4
+----------------------
+La distancia de edición mínima entre "" y "xmxzm" es: 20
+Tiempo de ejecución: 941 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'm': 2
+Costo de insertar 'z': 6
+Costo de insertar 'x': 5
+Costo de insertar 'm': 2
+Costo de insertar 'x': 5
+----------------------
+La distancia de edición mínima entre "" y "sfepqlhh" es: 36
+Tiempo de ejecución: 1440 nanosegundos
+Operaciones utilizadas: 
 Costo de insertar 'h': 2
-Costo de insertar 'z': 6
-Costo de insertar 'v': 6
-Costo de insertar 'i': 2
-Costo de insertar 'd': 5
-----------------------
-La distancia de edición mínima entre "" y "rbmdbgzf" es: 44
-Tiempo de ejecución: 1062 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'f': 6
-Costo de insertar 'z': 6
-Costo de insertar 'g': 6
-Costo de insertar 'b': 9
-Costo de insertar 'd': 5
-Costo de insertar 'm': 2
-Costo de insertar 'b': 9
-Costo de insertar 'r': 1
-----------------------
-La distancia de edición mínima entre "" y "gf" es: 12
-Tiempo de ejecución: 1332 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'f': 6
-Costo de insertar 'g': 6
-----------------------
-La distancia de edición mínima entre "" y "m" es: 2
-Tiempo de ejecución: 446 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'm': 2
-----------------------
-La distancia de edición mínima entre "" y "fbsx" es: 26
-Tiempo de ejecución: 1088 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'x': 5
-Costo de insertar 's': 6
-Costo de insertar 'b': 9
-Costo de insertar 'f': 6
-----------------------
-La distancia de edición mínima entre "" y "c" es: 3
-Tiempo de ejecución: 271 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'c': 3
-----------------------
-La distancia de edición mínima entre "" y "cuinklfbxn" es: 49
-Tiempo de ejecución: 2020 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'n': 6
-Costo de insertar 'x': 5
-Costo de insertar 'b': 9
-Costo de insertar 'f': 6
+Costo de insertar 'h': 2
 Costo de insertar 'l': 3
-Costo de insertar 'k': 6
+Costo de insertar 'q': 4
+Costo de insertar 'p': 7
+Costo de insertar 'e': 6
+Costo de insertar 'f': 6
+Costo de insertar 's': 6
+----------------------
+La distancia de edición mínima entre "" y "ndh" es: 13
+Tiempo de ejecución: 449 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'h': 2
+Costo de insertar 'd': 5
 Costo de insertar 'n': 6
+----------------------
+La distancia de edición mínima entre "" y "pqhzmryrws" es: 36
+Tiempo de ejecución: 1206 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 's': 6
+Costo de insertar 'w': 6
+Costo de insertar 'r': 1
+Costo de insertar 'y': 1
+Costo de insertar 'r': 1
+Costo de insertar 'm': 2
+Costo de insertar 'z': 6
+Costo de insertar 'h': 2
+Costo de insertar 'q': 4
+Costo de insertar 'p': 7
+----------------------
+La distancia de edición mínima entre "" y "qewnqi" es: 28
+Tiempo de ejecución: 695 nanosegundos
+Operaciones utilizadas: 
 Costo de insertar 'i': 2
+Costo de insertar 'q': 4
+Costo de insertar 'n': 6
+Costo de insertar 'w': 6
+Costo de insertar 'e': 6
+Costo de insertar 'q': 4
+----------------------
+La distancia de edición mínima entre "" y "dhlujr" es: 15
+Tiempo de ejecución: 658 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'r': 1
+Costo de insertar 'j': 1
 Costo de insertar 'u': 3
-Costo de insertar 'c': 3
+Costo de insertar 'l': 3
+Costo de insertar 'h': 2
+Costo de insertar 'd': 5
 ----------------------
-La distancia de edición mínima entre "psnfkrg" y "" es: 38
-Tiempo de ejecución: 1772 nanosegundos
+La distancia de edición mínima entre "" y "jtqiiuzq" es: 26
+Tiempo de ejecución: 999 nanosegundos
 Operaciones utilizadas: 
-Costo de eliminar 'g': 9
-Costo de eliminar 'r': 4
-Costo de eliminar 'k': 5
-Costo de eliminar 'f': 5
-Costo de eliminar 'n': 5
-Costo de eliminar 's': 7
+Costo de insertar 'q': 4
+Costo de insertar 'z': 6
+Costo de insertar 'u': 3
+Costo de insertar 'i': 2
+Costo de insertar 'i': 2
+Costo de insertar 'q': 4
+Costo de insertar 't': 4
+Costo de insertar 'j': 1
+----------------------
+La distancia de edición mínima entre "fygptvzo" y "" es: 44
+Tiempo de ejecución: 1522 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'o': 9
+Costo de eliminar 'z': 6
+Costo de eliminar 'v': 2
+Costo de eliminar 't': 2
 Costo de eliminar 'p': 3
-----------------------
-La distancia de edición mínima entre "ig" y "" es: 17
-Tiempo de ejecución: 498 nanosegundos
-Operaciones utilizadas: 
 Costo de eliminar 'g': 9
+Costo de eliminar 'y': 8
+Costo de eliminar 'f': 5
+----------------------
+La distancia de edición mínima entre "qesqifmdy" y "" es: 50
+Tiempo de ejecución: 1051 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'y': 8
+Costo de eliminar 'd': 1
+Costo de eliminar 'm': 4
+Costo de eliminar 'f': 5
+Costo de eliminar 'i': 8
+Costo de eliminar 'q': 4
+Costo de eliminar 's': 7
+Costo de eliminar 'e': 9
+Costo de eliminar 'q': 4
+----------------------
+La distancia de edición mínima entre "itdgwt" y "" es: 29
+Tiempo de ejecución: 741 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 't': 2
+Costo de eliminar 'w': 7
+Costo de eliminar 'g': 9
+Costo de eliminar 'd': 1
+Costo de eliminar 't': 2
 Costo de eliminar 'i': 8
 ----------------------
-La distancia de edición mínima entre "ynfe" y "" es: 27
-Tiempo de ejecución: 705 nanosegundos
+La distancia de edición mínima entre "rxxc" y "" es: 23
+Tiempo de ejecución: 509 nanosegundos
 Operaciones utilizadas: 
-Costo de eliminar 'e': 9
-Costo de eliminar 'f': 5
-Costo de eliminar 'n': 5
-Costo de eliminar 'y': 8
-----------------------
-La distancia de edición mínima entre "ufhjdgl" y "" es: 38
-Tiempo de ejecución: 919 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'l': 8
-Costo de eliminar 'g': 9
-Costo de eliminar 'd': 1
-Costo de eliminar 'j': 8
-Costo de eliminar 'h': 3
-Costo de eliminar 'f': 5
-Costo de eliminar 'u': 4
-----------------------
-La distancia de edición mínima entre "wxn" y "" es: 19
-Tiempo de ejecución: 540 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'n': 5
+Costo de eliminar 'c': 5
 Costo de eliminar 'x': 7
-Costo de eliminar 'w': 7
-----------------------
-La distancia de edición mínima entre "kucczso" y "" es: 41
-Tiempo de ejecución: 904 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'o': 9
-Costo de eliminar 's': 7
-Costo de eliminar 'z': 6
-Costo de eliminar 'c': 5
-Costo de eliminar 'c': 5
-Costo de eliminar 'u': 4
-Costo de eliminar 'k': 5
-----------------------
-La distancia de edición mínima entre "d" y "" es: 1
-Tiempo de ejecución: 283 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'd': 1
-----------------------
-La distancia de edición mínima entre "wwlngpne" y "" es: 53
-Tiempo de ejecución: 1227 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'e': 9
-Costo de eliminar 'n': 5
-Costo de eliminar 'p': 3
-Costo de eliminar 'g': 9
-Costo de eliminar 'n': 5
-Costo de eliminar 'l': 8
-Costo de eliminar 'w': 7
-Costo de eliminar 'w': 7
-----------------------
-La distancia de edición mínima entre "xacfrwgxq" y "" es: 49
-Tiempo de ejecución: 1245 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'q': 4
 Costo de eliminar 'x': 7
-Costo de eliminar 'g': 9
-Costo de eliminar 'w': 7
-Costo de eliminar 'r': 4
-Costo de eliminar 'f': 5
-Costo de eliminar 'c': 5
-Costo de eliminar 'a': 1
-Costo de eliminar 'x': 7
-----------------------
-La distancia de edición mínima entre "ywyyctlvau" y "" es: 53
-Tiempo de ejecución: 1320 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'u': 4
-Costo de eliminar 'a': 1
-Costo de eliminar 'v': 2
-Costo de eliminar 'l': 8
-Costo de eliminar 't': 2
-Costo de eliminar 'c': 5
-Costo de eliminar 'y': 8
-Costo de eliminar 'y': 8
-Costo de eliminar 'w': 7
-Costo de eliminar 'y': 8
-----------------------
-La distancia de edición mínima entre "ksbnqhun" y "" es: 42
-Tiempo de ejecución: 2386 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'n': 5
-Costo de eliminar 'u': 4
-Costo de eliminar 'h': 3
-Costo de eliminar 'q': 4
-Costo de eliminar 'n': 5
-Costo de eliminar 'b': 9
-Costo de eliminar 's': 7
-Costo de eliminar 'k': 5
-----------------------
-La distancia de edición mínima entre "qj" y "" es: 12
-Tiempo de ejecución: 535 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'j': 8
-Costo de eliminar 'q': 4
-----------------------
-La distancia de edición mínima entre "ry" y "" es: 12
-Tiempo de ejecución: 418 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'y': 8
 Costo de eliminar 'r': 4
 ----------------------
-La distancia de edición mínima entre "jsghermq" y "" es: 48
-Tiempo de ejecución: 1138 nanosegundos
+La distancia de edición mínima entre "mvqmyr" y "" es: 26
+Tiempo de ejecución: 753 nanosegundos
 Operaciones utilizadas: 
-Costo de eliminar 'q': 4
+Costo de eliminar 'r': 4
+Costo de eliminar 'y': 8
 Costo de eliminar 'm': 4
-Costo de eliminar 'r': 4
-Costo de eliminar 'e': 9
-Costo de eliminar 'h': 3
-Costo de eliminar 'g': 9
-Costo de eliminar 's': 7
-Costo de eliminar 'j': 8
-----------------------
-La distancia de edición mínima entre "satsqfno" y "" es: 40
-Tiempo de ejecución: 8442 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'o': 9
-Costo de eliminar 'n': 5
-Costo de eliminar 'f': 5
 Costo de eliminar 'q': 4
-Costo de eliminar 's': 7
-Costo de eliminar 't': 2
-Costo de eliminar 'a': 1
-Costo de eliminar 's': 7
-----------------------
-La distancia de edición mínima entre "ceglghv" y "" es: 45
-Tiempo de ejecución: 1016 nanosegundos
-Operaciones utilizadas: 
 Costo de eliminar 'v': 2
-Costo de eliminar 'h': 3
+Costo de eliminar 'm': 4
+----------------------
+La distancia de edición mínima entre "wweqpwgor" y "" es: 59
+Tiempo de ejecución: 954 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'r': 4
+Costo de eliminar 'o': 9
 Costo de eliminar 'g': 9
-Costo de eliminar 'l': 8
-Costo de eliminar 'g': 9
+Costo de eliminar 'w': 7
+Costo de eliminar 'p': 3
+Costo de eliminar 'q': 4
 Costo de eliminar 'e': 9
+Costo de eliminar 'w': 7
+Costo de eliminar 'w': 7
+----------------------
+La distancia de edición mínima entre "cqsrix" y "" es: 35
+Tiempo de ejecución: 677 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'x': 7
+Costo de eliminar 'i': 8
+Costo de eliminar 'r': 4
+Costo de eliminar 's': 7
+Costo de eliminar 'q': 4
 Costo de eliminar 'c': 5
 ----------------------
-La distancia de edición mínima entre "lbyswh" y "" es: 42
-Tiempo de ejecución: 35813 nanosegundos
+La distancia de edición mínima entre "ianqqeki" y "" es: 44
+Tiempo de ejecución: 1026 nanosegundos
 Operaciones utilizadas: 
-Costo de eliminar 'h': 3
-Costo de eliminar 'w': 7
-Costo de eliminar 's': 7
-Costo de eliminar 'y': 8
-Costo de eliminar 'b': 9
-Costo de eliminar 'l': 8
-----------------------
-La distancia de edición mínima entre "dysxfrbbak" y "" es: 56
-Tiempo de ejecución: 1970 nanosegundos
-Operaciones utilizadas: 
+Costo de eliminar 'i': 8
 Costo de eliminar 'k': 5
-Costo de eliminar 'a': 1
-Costo de eliminar 'b': 9
-Costo de eliminar 'b': 9
-Costo de eliminar 'r': 4
-Costo de eliminar 'f': 5
-Costo de eliminar 'x': 7
-Costo de eliminar 's': 7
-Costo de eliminar 'y': 8
-Costo de eliminar 'd': 1
-----------------------
-La distancia de edición mínima entre "fvyfnofex" y "" es: 55
-Tiempo de ejecución: 1330 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'x': 7
-Costo de eliminar 'e': 9
-Costo de eliminar 'f': 5
-Costo de eliminar 'o': 9
-Costo de eliminar 'n': 5
-Costo de eliminar 'f': 5
-Costo de eliminar 'y': 8
-Costo de eliminar 'v': 2
-Costo de eliminar 'f': 5
-----------------------
-La distancia de edición mínima entre "qevvulwr" y "" es: 40
-Tiempo de ejecución: 1124 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'r': 4
-Costo de eliminar 'w': 7
-Costo de eliminar 'l': 8
-Costo de eliminar 'u': 4
-Costo de eliminar 'v': 2
-Costo de eliminar 'v': 2
 Costo de eliminar 'e': 9
 Costo de eliminar 'q': 4
-----------------------
-La distancia de edición mínima entre "so" y "so" es: 0
-Tiempo de ejecución: 9404 nanosegundos
-Operaciones utilizadas: 
-----------------------
-La distancia de edición mínima entre "iqfpikalg" y "qipfikagl" es: 10
-Tiempo de ejecución: 514249376 nanosegundos
-Operaciones utilizadas: 
-Costo de transponer 'l' y 'g': 6
-Costo de transponer 'f' y 'p': 2
-Costo de transponer 'i' y 'q': 2
-----------------------
-La distancia de edición mínima entre "zzwsvh" y "zzwshv" es: 5
-Tiempo de ejecución: 3327114 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'h': 3
-Costo de insertar 'h': 2
-----------------------
-La distancia de edición mínima entre "iklfahwzpe" y "ifklahzwpe" es: 14
-Tiempo de ejecución: 3045115547 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'z' por 'w': 2
-Costo de sustituir 'w' por 'z': 2
+Costo de eliminar 'q': 4
+Costo de eliminar 'n': 5
 Costo de eliminar 'a': 1
-Costo de sustituir 'f' por 'a': 3
-Costo de insertar 'f': 6
+Costo de eliminar 'i': 8
 ----------------------
-La distancia de edición mínima entre "dyduzua" y "dduyuza" es: 13
-Tiempo de ejecución: 18702374 nanosegundos
+La distancia de edición mínima entre "ovdjsl" y "" es: 35
+Tiempo de ejecución: 644 nanosegundos
 Operaciones utilizadas: 
-Costo de transponer 'z' y 'u': 4
-Costo de insertar 'y': 1
+Costo de eliminar 'l': 8
+Costo de eliminar 's': 7
+Costo de eliminar 'j': 8
 Costo de eliminar 'd': 1
-Costo de sustituir 'y' por 'd': 7
+Costo de eliminar 'v': 2
+Costo de eliminar 'o': 9
 ----------------------
-La distancia de edición mínima entre "ywfo" y "wfoy" es: 9
-Tiempo de ejecución: 109590 nanosegundos
+La distancia de edición mínima entre "a" y "" es: 1
+Tiempo de ejecución: 259 nanosegundos
 Operaciones utilizadas: 
-Costo de insertar 'y': 1
+Costo de eliminar 'a': 1
+----------------------
+La distancia de edición mínima entre "ayohe" y "" es: 30
+Tiempo de ejecución: 696 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'e': 9
+Costo de eliminar 'h': 3
+Costo de eliminar 'o': 9
+Costo de eliminar 'y': 8
+Costo de eliminar 'a': 1
+----------------------
+La distancia de edición mínima entre "ymvmmmjclry" y "" es: 59
+Tiempo de ejecución: 1276 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'y': 8
+Costo de eliminar 'r': 4
+Costo de eliminar 'l': 8
+Costo de eliminar 'c': 5
+Costo de eliminar 'j': 8
+Costo de eliminar 'm': 4
+Costo de eliminar 'm': 4
+Costo de eliminar 'm': 4
+Costo de eliminar 'v': 2
+Costo de eliminar 'm': 4
 Costo de eliminar 'y': 8
 ----------------------
-La distancia de edición mínima entre "krtfzgd" y "rktzfdg" es: 11
-Tiempo de ejecución: 17931041 nanosegundos
+La distancia de edición mínima entre "ay" y "" es: 9
+Tiempo de ejecución: 363 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'y': 8
+Costo de eliminar 'a': 1
+----------------------
+La distancia de edición mínima entre "r" y "" es: 4
+Tiempo de ejecución: 159 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'r': 4
+----------------------
+La distancia de edición mínima entre "ug" y "" es: 13
+Tiempo de ejecución: 295 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'g': 9
+Costo de eliminar 'u': 4
+----------------------
+La distancia de edición mínima entre "owjoijucoqr" y "" es: 75
+Tiempo de ejecución: 1167 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'r': 4
+Costo de eliminar 'q': 4
+Costo de eliminar 'o': 9
+Costo de eliminar 'c': 5
+Costo de eliminar 'u': 4
+Costo de eliminar 'j': 8
+Costo de eliminar 'i': 8
+Costo de eliminar 'o': 9
+Costo de eliminar 'j': 8
+Costo de eliminar 'w': 7
+Costo de eliminar 'o': 9
+----------------------
+La distancia de edición mínima entre "cumvud" y "" es: 20
+Tiempo de ejecución: 755 nanosegundos
 Operaciones utilizadas: 
 Costo de eliminar 'd': 1
-Costo de sustituir 'z' por 'd': 2
-Costo de eliminar 't': 2
-Costo de sustituir 'r' por 'z': 1
-Costo de insertar 't': 4
-Costo de insertar 'r': 1
+Costo de eliminar 'u': 4
+Costo de eliminar 'v': 2
+Costo de eliminar 'm': 4
+Costo de eliminar 'u': 4
+Costo de eliminar 'c': 5
 ----------------------
-La distancia de edición mínima entre "yl" y "yl" es: 0
-Tiempo de ejecución: 7526 nanosegundos
+La distancia de edición mínima entre "fl" y "" es: 13
+Tiempo de ejecución: 311 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'l': 8
+Costo de eliminar 'f': 5
+----------------------
+La distancia de edición mínima entre "hbdw" y "" es: 20
+Tiempo de ejecución: 500 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'w': 7
+Costo de eliminar 'd': 1
+Costo de eliminar 'b': 9
+Costo de eliminar 'h': 3
+----------------------
+La distancia de edición mínima entre "ofyui" y "" es: 34
+Tiempo de ejecución: 662 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'i': 8
+Costo de eliminar 'u': 4
+Costo de eliminar 'y': 8
+Costo de eliminar 'f': 5
+Costo de eliminar 'o': 9
+----------------------
+La distancia de edición mínima entre "kwjwlaunkfh" y "kwjwlaunkhf" es: 4
+Tiempo de ejecución: 14288838455 nanosegundos
+Operaciones utilizadas: 
+Costo de transponer 'f' y 'h': 4
+----------------------
+La distancia de edición mínima entre "rpajsteu" y "rapjtsue" es: 13
+Tiempo de ejecución: 80739097 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'u': 4
+Costo de eliminar 't': 2
+Costo de sustituir 's' por 'u': 1
+Costo de sustituir 'j' por 's': 2
+Costo de sustituir 'a' por 't': 1
+Costo de insertar 'j': 1
+Costo de insertar 'a': 2
+----------------------
+La distancia de edición mínima entre "tuencnmdutc" y "utnecndmuct" es: 17
+Tiempo de ejecución: 15294223631 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 't': 4
+Costo de eliminar 't': 2
+Costo de sustituir 'd' por 'm': 1
+Costo de sustituir 'm' por 'd': 1
+Costo de eliminar 'n': 5
+Costo de sustituir 'u' por 'n': 1
+Costo de insertar 'u': 3
+----------------------
+La distancia de edición mínima entre "klbzqr" y "kblzrq" es: 8
+Tiempo de ejecución: 2945198 nanosegundos
+Operaciones utilizadas: 
+Costo de transponer 'q' y 'r': 2
+Costo de transponer 'l' y 'b': 6
+----------------------
+La distancia de edición mínima entre "rr" y "rr" es: 0
+Tiempo de ejecución: 5386 nanosegundos
 Operaciones utilizadas: 
 ----------------------
-La distancia de edición mínima entre "wnlp" y "wlnp" es: 6
-Tiempo de ejecución: 119600 nanosegundos
+La distancia de edición mínima entre "ypxdpqmz" y "pyxpdqzm" es: 13
+Tiempo de ejecución: 123359238 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'm': 2
+Costo de eliminar 'm': 4
+Costo de transponer 'd' y 'p': 3
+Costo de transponer 'y' y 'p': 4
+----------------------
+La distancia de edición mínima entre "hgumhxww" y "ghuhmwxw" es: 11
+Tiempo de ejecución: 96756248 nanosegundos
+Operaciones utilizadas: 
+Costo de transponer 'x' y 'w': 8
+Costo de transponer 'm' y 'h': 1
+Costo de transponer 'h' y 'g': 2
+----------------------
+La distancia de edición mínima entre "fmdfmsyfpdw" y "mffdmyspfwd" es: 17
+Tiempo de ejecución: 17334081620 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'w' por 'd': 2
+Costo de sustituir 'd' por 'w': 2
+Costo de transponer 'f' y 'p': 2
+Costo de transponer 's' y 'y': 3
+Costo de transponer 'd' y 'f': 2
+Costo de eliminar 'm': 4
+Costo de insertar 'm': 2
+----------------------
+La distancia de edición mínima entre "dtajzgunlm" y "datzjgulnm" es: 9
+Tiempo de ejecución: 2471755518 nanosegundos
 Operaciones utilizadas: 
 Costo de sustituir 'l' por 'n': 3
 Costo de sustituir 'n' por 'l': 3
+Costo de transponer 'j' y 'z': 1
+Costo de sustituir 'a' por 't': 1
+Costo de sustituir 't' por 'a': 1
 ----------------------
-La distancia de edición mínima entre "qnzvrvjjld" y "qznvvrjjdl" es: 10
-Tiempo de ejecución: 3713050437 nanosegundos
+La distancia de edición mínima entre "db" y "bd" es: 5
+Tiempo de ejecución: 7576 nanosegundos
 Operaciones utilizadas: 
-Costo de transponer 'l' y 'd': 4
-Costo de sustituir 'v' por 'r': 2
-Costo de sustituir 'r' por 'v': 2
-Costo de transponer 'n' y 'z': 2
+Costo de transponer 'd' y 'b': 5
 ----------------------
-La distancia de edición mínima entre "gpwem" y "gpewm" es: 2
-Tiempo de ejecución: 535255 nanosegundos
+La distancia de edición mínima entre "dprroq" y "pdrorq" es: 5
+Tiempo de ejecución: 2747071 nanosegundos
 Operaciones utilizadas: 
-Costo de transponer 'w' y 'e': 2
-----------------------
-La distancia de edición mínima entre "bczkpicdcd" y "bcizkcpdcd" es: 17
-Tiempo de ejecución: 2873437584 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'c' por 'p': 8
-Costo de sustituir 'i' por 'c': 4
-Costo de eliminar 'p': 3
-Costo de insertar 'i': 2
-----------------------
-La distancia de edición mínima entre "piormy" y "piryom" es: 9
-Tiempo de ejecución: 3211864 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'y' por 'm': 2
-Costo de eliminar 'm': 4
+Costo de sustituir 'o' por 'r': 1
 Costo de sustituir 'r' por 'o': 1
-Costo de insertar 'y': 1
-Costo de sustituir 'o' por 'r': 1
+Costo de transponer 'd' y 'p': 3
 ----------------------
-La distancia de edición mínima entre "vxdextzhka" y "xvdxtezhka" es: 12
-Tiempo de ejecución: 2776008675 nanosegundos
+La distancia de edición mínima entre "lnprh" y "nlrph" es: 10
+Tiempo de ejecución: 606948 nanosegundos
 Operaciones utilizadas: 
-Costo de sustituir 't' por 'e': 2
-Costo de sustituir 'x' por 't': 1
-Costo de sustituir 'e' por 'x': 7
-Costo de transponer 'v' y 'x': 2
+Costo de transponer 'p' y 'r': 4
+Costo de sustituir 'n' por 'l': 3
+Costo de sustituir 'l' por 'n': 3
 ----------------------
-La distancia de edición mínima entre "swkkt" y "wsktk" es: 8
-Tiempo de ejecución: 724634 nanosegundos
+La distancia de edición mínima entre "fbxbhqj" y "fxbhbjq" es: 17
+Tiempo de ejecución: 14795026 nanosegundos
 Operaciones utilizadas: 
-Costo de eliminar 't': 2
-Costo de insertar 't': 4
-Costo de transponer 's' y 'w': 2
-----------------------
-La distancia de edición mínima entre "zycyqh" y "zycyhq" es: 5
-Tiempo de ejecución: 3718738 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'h': 3
-Costo de insertar 'h': 2
-----------------------
-La distancia de edición mínima entre "fatoiu" y "atofiu" es: 9
-Tiempo de ejecución: 2959233 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'o' por 'f': 3
-Costo de sustituir 't' por 'o': 2
-Costo de sustituir 'a' por 't': 1
-Costo de sustituir 'f' por 'a': 3
-----------------------
-La distancia de edición mínima entre "xufhx" y "xfuxh" es: 10
-Tiempo de ejecución: 567602 nanosegundos
-Operaciones utilizadas: 
-Costo de transponer 'h' y 'x': 3
-Costo de insertar 'u': 3
-Costo de eliminar 'u': 4
-----------------------
-La distancia de edición mínima entre "vcerwtuxnk" y "vrcweutxnk" es: 18
-Tiempo de ejecución: 2779846137 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 't': 4
-Costo de sustituir 't' por 'e': 2
-Costo de eliminar 'r': 4
-Costo de sustituir 'e' por 'c': 2
-Costo de sustituir 'c' por 'r': 6
-----------------------
-La distancia de edición mínima entre "xygfeeke" y "xgyefeke" es: 8
-Tiempo de ejecución: 86786835 nanosegundos
-Operaciones utilizadas: 
-Costo de transponer 'f' y 'e': 7
-Costo de transponer 'y' y 'g': 1
-----------------------
-La distancia de edición mínima entre "ngzbdoagwc" y "sdupwbrzln" es: 34
-Tiempo de ejecución: 3272754799 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'c' por 'n': 5
-Costo de sustituir 'w' por 'l': 4
-Costo de sustituir 'g' por 'z': 4
-Costo de eliminar 'a': 1
-Costo de sustituir 'o' por 'r': 1
-Costo de eliminar 'd': 1
-Costo de insertar 'w': 6
-Costo de sustituir 'z' por 'p': 1
-Costo de sustituir 'g' por 'u': 2
-Costo de insertar 'd': 5
-Costo de sustituir 'n' por 's': 4
-----------------------
-La distancia de edición mínima entre "efw" y "zec" es: 13
-Tiempo de ejecución: 22531 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'w' por 'c': 3
-Costo de sustituir 'f' por 'e': 7
-Costo de sustituir 'e' por 'z': 3
-----------------------
-La distancia de edición mínima entre "dq" y "sn" es: 8
-Tiempo de ejecución: 4487 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'n': 6
-Costo de sustituir 'q' por 's': 1
-Costo de eliminar 'd': 1
-----------------------
-La distancia de edición mínima entre "lftdvphoo" y "xsqmahero" es: 24
-Tiempo de ejecución: 493578558 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'o' por 'r': 1
-Costo de eliminar 'h': 3
-Costo de sustituir 'p' por 'e': 2
-Costo de insertar 'h': 2
-Costo de sustituir 'v' por 'a': 2
-Costo de eliminar 'd': 1
-Costo de sustituir 't' por 'm': 1
-Costo de sustituir 'f' por 'q': 3
-Costo de sustituir 'l' por 's': 4
-Costo de insertar 'x': 5
-----------------------
-La distancia de edición mínima entre "olfdnqfi" y "aqcnexsw" es: 24
-Tiempo de ejecución: 105677809 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'i' por 'w': 6
-Costo de sustituir 'f' por 's': 8
-Costo de sustituir 'q' por 'x': 1
-Costo de sustituir 'n' por 'e': 2
-Costo de eliminar 'd': 1
-Costo de sustituir 'f' por 'n': 1
-Costo de insertar 'c': 3
-Costo de sustituir 'l' por 'q': 1
-Costo de sustituir 'o' por 'a': 1
-----------------------
-La distancia de edición mínima entre "r" y "c" es: 6
-Tiempo de ejecución: 2578 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'r' por 'c': 6
-----------------------
-La distancia de edición mínima entre "l" y "s" es: 4
-Tiempo de ejecución: 1229 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'l' por 's': 4
-----------------------
-La distancia de edición mínima entre "tpobohsq" y "ipbjogvk" es: 25
-Tiempo de ejecución: 99828634 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'q' por 'k': 2
-Costo de sustituir 's' por 'v': 3
-Costo de sustituir 'h' por 'g': 7
-Costo de insertar 'j': 1
-Costo de sustituir 'o' por 'p': 5
-Costo de eliminar 'p': 3
-Costo de eliminar 't': 2
-Costo de insertar 'i': 2
-----------------------
-La distancia de edición mínima entre "sebmkkiarm" y "cmufgxaddl" es: 37
-Tiempo de ejecución: 3418256551 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'l': 3
-Costo de sustituir 'm' por 'd': 1
-Costo de sustituir 'r' por 'd': 5
-Costo de insertar 'x': 5
-Costo de sustituir 'i' por 'g': 5
-Costo de eliminar 'k': 5
-Costo de sustituir 'k' por 'f': 3
-Costo de eliminar 'm': 4
-Costo de sustituir 'b' por 'u': 3
-Costo de sustituir 'e' por 'm': 2
-Costo de sustituir 's' por 'c': 1
-----------------------
-La distancia de edición mínima entre "kgbaa" y "kjvbq" es: 8
-Tiempo de ejecución: 745397 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'a': 1
-Costo de eliminar 'a': 1
 Costo de insertar 'q': 4
-Costo de sustituir 'g' por 'v': 1
-Costo de insertar 'j': 1
-----------------------
-La distancia de edición mínima entre "n" y "q" es: 2
-Tiempo de ejecución: 2430 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'n' por 'q': 2
-----------------------
-La distancia de edición mínima entre "mk" y "ml" es: 8
-Tiempo de ejecución: 5811 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'k' por 'l': 8
-----------------------
-La distancia de edición mínima entre "ef" y "py" es: 4
-Tiempo de ejecución: 4359 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'f' por 'y': 2
-Costo de sustituir 'e' por 'p': 2
-----------------------
-La distancia de edición mínima entre "hrfkwq" y "ykllcs" es: 19
-Tiempo de ejecución: 3235511 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'q' por 's': 1
-Costo de sustituir 'w' por 'c': 3
-Costo de insertar 'l': 3
-Costo de insertar 'l': 3
-Costo de sustituir 'f' por 'y': 2
-Costo de eliminar 'r': 4
-Costo de eliminar 'h': 3
-----------------------
-La distancia de edición mínima entre "lcmivf" y "qemshp" es: 16
-Tiempo de ejecución: 3719279 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'f' por 'p': 4
-Costo de eliminar 'v': 2
-Costo de sustituir 'i' por 'h': 2
-Costo de sustituir 'm' por 's': 3
-Costo de insertar 'm': 2
-Costo de sustituir 'c' por 'e': 2
-Costo de sustituir 'l' por 'q': 1
-----------------------
-La distancia de edición mínima entre "eozo" y "msfh" es: 18
-Tiempo de ejecución: 157254 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'h': 2
-Costo de sustituir 'o' por 'f': 3
-Costo de sustituir 'z' por 's': 2
-Costo de eliminar 'o': 9
-Costo de sustituir 'e' por 'm': 2
-----------------------
-La distancia de edición mínima entre "tccgx" y "tymgh" es: 17
-Tiempo de ejecución: 597451 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'x' por 'h': 8
-Costo de eliminar 'c': 5
-Costo de sustituir 'c' por 'm': 3
-Costo de insertar 'y': 1
-----------------------
-La distancia de edición mínima entre "diduk" y "pppcu" es: 24
-Tiempo de ejecución: 608411 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'k' por 'u': 7
-Costo de sustituir 'u' por 'c': 1
-Costo de sustituir 'd' por 'p': 5
-Costo de sustituir 'i' por 'p': 6
-Costo de sustituir 'd' por 'p': 5
-----------------------
-La distancia de edición mínima entre "ars" y "tsw" es: 10
-Tiempo de ejecución: 25400 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 's' por 'w': 3
-Costo de sustituir 'r' por 's': 6
-Costo de sustituir 'a' por 't': 1
-----------------------
-La distancia de edición mínima entre "cf" y "zl" es: 12
-Tiempo de ejecución: 4946 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'f' por 'l': 5
-Costo de sustituir 'c' por 'z': 7
-----------------------
-La distancia de edición mínima entre "xxae" y "nynxq" es: 22
-Tiempo de ejecución: 265360 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'e' por 'q': 6
-Costo de eliminar 'a': 1
-Costo de insertar 'n': 6
-Costo de sustituir 'x' por 'y': 3
-Costo de insertar 'n': 6
-----------------------
-La distancia de edición mínima entre "oodn" y "bbmvpgwys" es: 43
-Tiempo de ejecución: 3023965 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'n' por 's': 4
-Costo de insertar 'y': 1
-Costo de sustituir 'd' por 'w': 2
-Costo de sustituir 'o' por 'g': 5
-Costo de sustituir 'o' por 'p': 5
-Costo de insertar 'v': 6
-Costo de insertar 'm': 2
-Costo de insertar 'b': 9
-Costo de insertar 'b': 9
-----------------------
-La distancia de edición mínima entre "ngoqpq" y "dxskdoan" es: 33
-Tiempo de ejecución: 16130630 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'q' por 'n': 2
-Costo de sustituir 'p' por 'a': 2
-Costo de eliminar 'q': 4
-Costo de sustituir 'g' por 'd': 5
-Costo de insertar 'k': 6
-Costo de sustituir 'n' por 's': 4
-Costo de insertar 'x': 5
-Costo de insertar 'd': 5
-----------------------
-La distancia de edición mínima entre "ot" y "rce" es: 6
-Tiempo de ejecución: 14958 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 't' por 'e': 2
-Costo de insertar 'c': 3
-Costo de sustituir 'o' por 'r': 1
-----------------------
-La distancia de edición mínima entre "yvj" y "jlnfbnagvjycp" es: 45
-Tiempo de ejecución: 2298887 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'j' por 'p': 5
-Costo de insertar 'c': 3
-Costo de insertar 'y': 1
-Costo de insertar 'j': 1
-Costo de insertar 'g': 6
-Costo de insertar 'a': 2
-Costo de insertar 'n': 6
-Costo de insertar 'b': 9
-Costo de sustituir 'y' por 'f': 2
-Costo de insertar 'n': 6
-Costo de insertar 'l': 3
-Costo de insertar 'j': 1
-----------------------
-La distancia de edición mínima entre "vmwbl" y "khmlgvk" es: 24
-Tiempo de ejecución: 2584945 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'k': 6
-Costo de sustituir 'l' por 'v': 6
-Costo de sustituir 'b' por 'g': 2
-Costo de sustituir 'w' por 'l': 4
-Costo de insertar 'h': 2
-Costo de sustituir 'v' por 'k': 4
-----------------------
-La distancia de edición mínima entre "i" y "ako" es: 7
-Tiempo de ejecución: 6059 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'o': 3
-Costo de sustituir 'i' por 'k': 2
-Costo de insertar 'a': 2
-----------------------
-La distancia de edición mínima entre "ugf" y "uolsvdte" es: 27
-Tiempo de ejecución: 387381 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'e': 6
-Costo de insertar 't': 4
-Costo de sustituir 'f' por 'd': 6
-Costo de sustituir 'g' por 'v': 1
-Costo de sustituir 'u' por 's': 1
-Costo de insertar 'l': 3
-Costo de insertar 'o': 3
-Costo de insertar 'u': 3
-----------------------
-La distancia de edición mínima entre "y" y "kjnmvaaznksjsd" es: 56
-Tiempo de ejecución: 37391 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'd': 5
-Costo de insertar 's': 6
-Costo de insertar 'j': 1
-Costo de insertar 's': 6
-Costo de insertar 'k': 6
-Costo de insertar 'n': 6
-Costo de insertar 'z': 6
-Costo de insertar 'a': 2
-Costo de insertar 'a': 2
-Costo de insertar 'v': 6
-Costo de insertar 'm': 2
-Costo de insertar 'n': 6
-Costo de insertar 'j': 1
-Costo de sustituir 'y' por 'k': 1
-----------------------
-La distancia de edición mínima entre "wmi" y "ndpjldsvowr" es: 37
-Tiempo de ejecución: 1276315 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'r': 1
-Costo de insertar 'w': 6
-Costo de insertar 'o': 3
-Costo de sustituir 'i' por 'v': 2
-Costo de insertar 's': 6
-Costo de insertar 'd': 5
-Costo de insertar 'l': 3
-Costo de insertar 'j': 1
-Costo de sustituir 'm' por 'p': 2
-Costo de sustituir 'w' por 'd': 2
-Costo de insertar 'n': 6
-----------------------
-La distancia de edición mínima entre "qfgdqfpem" y "wbsofnpmzxmjga" es: 36
-Tiempo de ejecución: 22001678964 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'a': 2
-Costo de insertar 'g': 6
-Costo de insertar 'j': 1
-Costo de insertar 'm': 2
-Costo de sustituir 'm' por 'x': 2
-Costo de sustituir 'e' por 'z': 3
-Costo de insertar 'm': 2
-Costo de insertar 'n': 6
-Costo de insertar 'o': 3
-Costo de sustituir 'q' por 's': 1
-Costo de eliminar 'd': 1
-Costo de sustituir 'g' por 'b': 2
-Costo de sustituir 'f' por 'w': 1
-Costo de eliminar 'q': 4
-----------------------
-La distancia de edición mínima entre "opdtamropa" y "eyfvwycajjh" es: 35
-Tiempo de ejecución: 8064285646 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'a': 1
-Costo de eliminar 'p': 3
-Costo de insertar 'h': 2
-Costo de insertar 'j': 1
-Costo de insertar 'j': 1
-Costo de sustituir 'o' por 'a': 1
-Costo de eliminar 'r': 4
-Costo de sustituir 'm' por 'c': 3
-Costo de eliminar 'a': 1
-Costo de eliminar 't': 2
-Costo de insertar 'y': 1
-Costo de sustituir 'd' por 'w': 2
-Costo de sustituir 'p' por 'v': 3
-Costo de sustituir 'o' por 'f': 3
-Costo de insertar 'y': 1
-Costo de insertar 'e': 6
-----------------------
-La distancia de edición mínima entre "zqbgchhisc" y "ihkfsghgkiqxsdq" es: 39
-Tiempo de ejecución: 146117077364 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'c' por 'q': 1
-Costo de insertar 'd': 5
-Costo de insertar 'x': 5
-Costo de insertar 'q': 4
-Costo de sustituir 'h' por 'k': 1
-Costo de sustituir 'h' por 'g': 7
-Costo de sustituir 'c' por 'h': 4
-Costo de sustituir 'b' por 's': 2
-Costo de sustituir 'q' por 'f': 3
-Costo de sustituir 'z' por 'k': 3
-Costo de insertar 'h': 2
-Costo de insertar 'i': 2
-----------------------
-La distancia de edición mínima entre "jfgikmjdf" y "fxqihnykwupnkm" es: 35
-Tiempo de ejecución: 19296116762 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'm': 2
-Costo de insertar 'k': 6
-Costo de sustituir 'f' por 'n': 1
-Costo de sustituir 'd' por 'p': 5
-Costo de sustituir 'j' por 'u': 1
-Costo de sustituir 'm' por 'w': 2
-Costo de insertar 'y': 1
-Costo de insertar 'n': 6
-Costo de insertar 'h': 2
-Costo de sustituir 'g' por 'q': 2
-Costo de sustituir 'f' por 'x': 3
-Costo de sustituir 'j' por 'f': 4
-----------------------
-La distancia de edición mínima entre "qtkqqsayi" y "mwyebipuotmxrmx" es: 43
-Tiempo de ejecución: 32326600264 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'x': 5
-Costo de insertar 'm': 2
-Costo de sustituir 'i' por 'r': 4
-Costo de sustituir 'y' por 'x': 3
-Costo de insertar 'm': 2
-Costo de sustituir 'a' por 't': 1
-Costo de insertar 'o': 3
-Costo de sustituir 's' por 'u': 1
-Costo de sustituir 'q' por 'p': 1
-Costo de insertar 'i': 2
 Costo de sustituir 'q' por 'b': 4
-Costo de insertar 'e': 6
-Costo de insertar 'y': 1
-Costo de sustituir 'k' por 'w': 3
-Costo de sustituir 't' por 'm': 1
-Costo de eliminar 'q': 4
+Costo de eliminar 'b': 9
 ----------------------
-La distancia de edición mínima entre "e" y "mrjcncbvgmwrvk" es: 51
-Tiempo de ejecución: 33049 nanosegundos
+La distancia de edición mínima entre "ndghqeq" y "ndhgqqe" es: 3
+Tiempo de ejecución: 13916671 nanosegundos
 Operaciones utilizadas: 
-Costo de insertar 'k': 6
-Costo de insertar 'v': 6
-Costo de insertar 'r': 1
-Costo de insertar 'w': 6
-Costo de insertar 'm': 2
-Costo de insertar 'g': 6
-Costo de insertar 'v': 6
-Costo de sustituir 'e' por 'b': 2
-Costo de insertar 'c': 3
-Costo de insertar 'n': 6
-Costo de insertar 'c': 3
-Costo de insertar 'j': 1
-Costo de insertar 'r': 1
-Costo de insertar 'm': 2
+Costo de transponer 'e' y 'q': 1
+Costo de transponer 'g' y 'h': 2
 ----------------------
-La distancia de edición mínima entre "koqgktv" y "ndukzpaakozqv" es: 42
-Tiempo de ejecución: 789157080 nanosegundos
+La distancia de edición mínima entre "ehlzwpfl" y "ehlzpwfl" es: 2
+Tiempo de ejecución: 83162565 nanosegundos
 Operaciones utilizadas: 
-Costo de insertar 'q': 4
-Costo de insertar 'z': 6
-Costo de sustituir 't' por 'o': 2
-Costo de insertar 'a': 2
-Costo de insertar 'a': 2
-Costo de insertar 'p': 7
-Costo de sustituir 'g' por 'z': 4
-Costo de sustituir 'q' por 'k': 2
-Costo de sustituir 'o' por 'u': 1
-Costo de insertar 'd': 5
-Costo de sustituir 'k' por 'n': 7
+Costo de transponer 'w' y 'p': 2
 ----------------------
-La distancia de edición mínima entre "s" y "xmncmfjhywhzzw" es: 50
-Tiempo de ejecución: 30562 nanosegundos
+La distancia de edición mínima entre "ruefqzcp" y "urfeqzpc" es: 12
+Tiempo de ejecución: 104362139 nanosegundos
 Operaciones utilizadas: 
-Costo de insertar 'w': 6
-Costo de insertar 'z': 6
-Costo de sustituir 's' por 'z': 2
-Costo de insertar 'h': 2
-Costo de insertar 'w': 6
-Costo de insertar 'y': 1
-Costo de insertar 'h': 2
-Costo de insertar 'j': 1
-Costo de insertar 'f': 6
-Costo de insertar 'm': 2
-Costo de insertar 'c': 3
-Costo de insertar 'n': 6
-Costo de insertar 'm': 2
-Costo de insertar 'x': 5
+Costo de transponer 'c' y 'p': 3
+Costo de transponer 'e' y 'f': 7
+Costo de transponer 'r' y 'u': 2
 ----------------------
-La distancia de edición mínima entre "aptmyycp" y "sgkrvrnccjczlwm" es: 44
-Tiempo de ejecución: 9177602979 nanosegundos
+La distancia de edición mínima entre "iextfvrzhs" y "iextfvrzsh" es: 2
+Tiempo de ejecución: 2527433268 nanosegundos
 Operaciones utilizadas: 
-Costo de insertar 'm': 2
-Costo de insertar 'w': 6
-Costo de insertar 'l': 3
-Costo de sustituir 'p' por 'z': 1
-Costo de insertar 'c': 3
-Costo de insertar 'j': 1
-Costo de insertar 'c': 3
-Costo de insertar 'n': 6
-Costo de insertar 'r': 1
-Costo de sustituir 'y' por 'v': 3
-Costo de insertar 'r': 1
-Costo de sustituir 'y' por 'k': 1
+Costo de transponer 'h' y 's': 2
+----------------------
+La distancia de edición mínima entre "zejem" y "zeejm" es: 3
+Tiempo de ejecución: 532000 nanosegundos
+Operaciones utilizadas: 
+Costo de transponer 'j' y 'e': 3
+----------------------
+La distancia de edición mínima entre "qfppr" y "fqprp" es: 7
+Tiempo de ejecución: 618707 nanosegundos
+Operaciones utilizadas: 
+Costo de transponer 'p' y 'r': 4
+Costo de transponer 'q' y 'f': 3
+----------------------
+La distancia de edición mínima entre "bigwkmm" y "ibwgmkm" es: 14
+Tiempo de ejecución: 13194179 nanosegundos
+Operaciones utilizadas: 
 Costo de eliminar 'm': 4
-Costo de sustituir 't' por 'g': 4
-Costo de sustituir 'p' por 's': 4
-Costo de eliminar 'a': 1
-----------------------
-La distancia de edición mínima entre "k" y "qpuozli" es: 25
-Tiempo de ejecución: 12579 nanosegundos
-Operaciones utilizadas: 
+Costo de sustituir 'w' por 'm': 2
+Costo de sustituir 'i' por 'w': 6
 Costo de insertar 'i': 2
-Costo de insertar 'l': 3
-Costo de sustituir 'k' por 'z': 3
-Costo de insertar 'o': 3
-Costo de insertar 'u': 3
-Costo de insertar 'p': 7
-Costo de insertar 'q': 4
 ----------------------
-La distancia de edición mínima entre "pjdljzvh" y "yba" es: 31
-Tiempo de ejecución: 400002 nanosegundos
+La distancia de edición mínima entre "ygfyx" y "wuvub" es: 23
+Tiempo de ejecución: 634766 nanosegundos
 Operaciones utilizadas: 
-Costo de eliminar 'h': 3
-Costo de sustituir 'v' por 'a': 2
-Costo de eliminar 'z': 6
-Costo de sustituir 'j' por 'b': 5
-Costo de sustituir 'l' por 'y': 3
-Costo de eliminar 'd': 1
-Costo de eliminar 'j': 8
-Costo de eliminar 'p': 3
-----------------------
-La distancia de edición mínima entre "ygyk" y "zi" es: 22
-Tiempo de ejecución: 64780 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'k' por 'i': 2
-Costo de eliminar 'y': 8
-Costo de sustituir 'g' por 'z': 4
-Costo de eliminar 'y': 8
-----------------------
-La distancia de edición mínima entre "xauvrlodx" y "r" es: 35
-Tiempo de ejecución: 15321 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'x': 7
-Costo de eliminar 'd': 1
-Costo de sustituir 'o' por 'r': 1
-Costo de eliminar 'l': 8
-Costo de eliminar 'r': 4
-Costo de eliminar 'v': 2
-Costo de eliminar 'u': 4
-Costo de eliminar 'a': 1
-Costo de eliminar 'x': 7
-----------------------
-La distancia de edición mínima entre "koawce" y "l" es: 31
-Tiempo de ejecución: 7620 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'e': 9
-Costo de eliminar 'c': 5
-Costo de eliminar 'w': 7
-Costo de eliminar 'a': 1
-Costo de sustituir 'o' por 'l': 4
-Costo de eliminar 'k': 5
-----------------------
-La distancia de edición mínima entre "yymre" y "r" es: 25
-Tiempo de ejecución: 5293 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'e' por 'r': 1
-Costo de eliminar 'r': 4
-Costo de eliminar 'm': 4
-Costo de eliminar 'y': 8
-Costo de eliminar 'y': 8
-----------------------
-La distancia de edición mínima entre "gfazg" y "sc" es: 24
-Tiempo de ejecución: 26340 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'g' por 'c': 7
-Costo de sustituir 'z' por 's': 2
-Costo de eliminar 'a': 1
+Costo de sustituir 'x' por 'b': 7
+Costo de sustituir 'y' por 'u': 2
 Costo de eliminar 'f': 5
-Costo de eliminar 'g': 9
+Costo de sustituir 'g' por 'v': 1
+Costo de sustituir 'y' por 'u': 2
+Costo de insertar 'w': 6
 ----------------------
-La distancia de edición mínima entre "ximkslu" y "qpsp" es: 21
-Tiempo de ejecución: 911974 nanosegundos
+La distancia de edición mínima entre "ok" y "oc" es: 8
+Tiempo de ejecución: 7505 nanosegundos
 Operaciones utilizadas: 
-Costo de eliminar 'u': 4
-Costo de sustituir 'l' por 'p': 1
-Costo de eliminar 'k': 5
-Costo de eliminar 'm': 4
-Costo de sustituir 'i' por 'p': 6
-Costo de sustituir 'x' por 'q': 1
-----------------------
-La distancia de edición mínima entre "axqgwi" y "zjwl" es: 17
-Tiempo de ejecución: 490441 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'i' por 'l': 2
-Costo de sustituir 'g' por 'j': 8
-Costo de eliminar 'q': 4
-Costo de sustituir 'x' por 'z': 2
-Costo de eliminar 'a': 1
-----------------------
-La distancia de edición mínima entre "thxpu" y "vnor" es: 15
-Tiempo de ejecución: 249349 nanosegundos
-Operaciones utilizadas: 
-Costo de insertar 'r': 1
-Costo de insertar 'o': 3
-Costo de sustituir 'u' por 'n': 1
-Costo de eliminar 'p': 3
-Costo de sustituir 'x' por 'v': 2
-Costo de eliminar 'h': 3
-Costo de eliminar 't': 2
-----------------------
-La distancia de edición mínima entre "tjcomzvvha" y "xgpy" es: 33
-Tiempo de ejecución: 3643844 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'a': 1
-Costo de eliminar 'h': 3
-Costo de eliminar 'v': 2
-Costo de sustituir 'v' por 'y': 3
-Costo de sustituir 'z' por 'p': 1
-Costo de eliminar 'm': 4
-Costo de sustituir 'o' por 'g': 5
-Costo de eliminar 'c': 5
-Costo de eliminar 'j': 8
-Costo de sustituir 't' por 'x': 1
-----------------------
-La distancia de edición mínima entre "jcwgphm" y "lllno" es: 29
-Tiempo de ejecución: 3078682 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'm': 4
-Costo de eliminar 'h': 3
-Costo de sustituir 'p' por 'o': 5
-Costo de sustituir 'g' por 'n': 9
-Costo de sustituir 'w' por 'l': 4
-Costo de sustituir 'c' por 'l': 3
-Costo de sustituir 'j' por 'l': 1
-----------------------
-La distancia de edición mínima entre "jqpbkt" y "oprcc" es: 21
-Tiempo de ejecución: 2063681 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 't': 2
-Costo de insertar 'c': 3
 Costo de sustituir 'k' por 'c': 8
-Costo de sustituir 'b' por 'r': 1
-Costo de eliminar 'p': 3
-Costo de sustituir 'q' por 'p': 1
-Costo de sustituir 'j' por 'o': 3
 ----------------------
-La distancia de edición mínima entre "cwi" y "b" es: 17
-Tiempo de ejecución: 8017 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'i': 8
-Costo de sustituir 'w' por 'b': 4
-Costo de eliminar 'c': 5
-----------------------
-La distancia de edición mínima entre "as" y "s" es: 1
-Tiempo de ejecución: 2862 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'a': 1
-----------------------
-La distancia de edición mínima entre "ssypopk" y "enwozu" es: 28
-Tiempo de ejecución: 6821168 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'k': 5
-Costo de eliminar 'p': 3
-Costo de sustituir 'o' por 'u': 1
-Costo de sustituir 'p' por 'z': 1
-Costo de sustituir 'y' por 'o': 5
-Costo de sustituir 's' por 'w': 3
-Costo de sustituir 's' por 'n': 4
-Costo de insertar 'e': 6
-----------------------
-La distancia de edición mínima entre "jp" y "i" es: 12
-Tiempo de ejecución: 4977 nanosegundos
-Operaciones utilizadas: 
-Costo de eliminar 'p': 3
-Costo de sustituir 'j' por 'i': 9
-----------------------
-La distancia de edición mínima entre "pcxjcumjhi" y "kprmp" es: 45
-Tiempo de ejecución: 13851650 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 'i' por 'p': 6
-Costo de eliminar 'h': 3
-Costo de sustituir 'j' por 'm': 3
-Costo de insertar 'r': 1
-Costo de sustituir 'm' por 'p': 2
-Costo de eliminar 'u': 4
-Costo de eliminar 'c': 5
-Costo de sustituir 'j' por 'k': 6
-Costo de eliminar 'x': 7
-Costo de eliminar 'c': 5
-Costo de eliminar 'p': 3
-----------------------
-La distancia de edición mínima entre "zzzakt" y "ez" es: 17
-Tiempo de ejecución: 39539 nanosegundos
+La distancia de edición mínima entre "jmt" y "spu" es: 9
+Tiempo de ejecución: 22661 nanosegundos
 Operaciones utilizadas: 
 Costo de eliminar 't': 2
-Costo de eliminar 'k': 5
-Costo de eliminar 'a': 1
-Costo de eliminar 'z': 6
-Costo de sustituir 'z' por 'e': 3
-----------------------
-La distancia de edición mínima entre "jgopcwes" y "segflfj" es: 29
-Tiempo de ejecución: 36430700 nanosegundos
-Operaciones utilizadas: 
-Costo de sustituir 's' por 'j': 2
-Costo de eliminar 'e': 9
-Costo de sustituir 'w' por 'f': 1
-Costo de eliminar 'c': 5
-Costo de sustituir 'p' por 'l': 1
-Costo de sustituir 'o' por 'f': 3
-Costo de insertar 'e': 6
+Costo de insertar 'u': 3
+Costo de sustituir 'm' por 'p': 2
 Costo de sustituir 'j' por 's': 2
 ----------------------
-La distancia de edición mínima entre "cm" y "v" es: 7
-Tiempo de ejecución: 4208 nanosegundos
+La distancia de edición mínima entre "ccmpvezrxf" y "bwwckpbfwf" es: 36
+Tiempo de ejecución: 2374542005 nanosegundos
 Operaciones utilizadas: 
+Costo de insertar 'w': 6
+Costo de sustituir 'x' por 'f': 3
+Costo de sustituir 'r' por 'b': 1
+Costo de sustituir 'z' por 'p': 1
+Costo de sustituir 'e' por 'k': 5
+Costo de sustituir 'v' por 'c': 3
+Costo de eliminar 'p': 3
+Costo de sustituir 'm' por 'w': 2
+Costo de sustituir 'c' por 'w': 3
+Costo de sustituir 'c' por 'b': 9
+----------------------
+La distancia de edición mínima entre "sprbqq" y "ezpseq" es: 20
+Tiempo de ejecución: 2584685 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'q': 4
+Costo de sustituir 'b' por 'e': 2
+Costo de sustituir 'r' por 's': 6
+Costo de sustituir 's' por 'z': 2
+Costo de insertar 'e': 6
+----------------------
+La distancia de edición mínima entre "s" y "j" es: 2
+Tiempo de ejecución: 2260 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 's' por 'j': 2
+----------------------
+La distancia de edición mínima entre "eisauvu" y "uhspzis" es: 23
+Tiempo de ejecución: 15745673 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'u' por 's': 1
+Costo de sustituir 'v' por 'i': 2
+Costo de sustituir 'u' por 'z': 8
+Costo de sustituir 'a' por 'p': 2
+Costo de sustituir 'i' por 'h': 2
+Costo de sustituir 'e' por 'u': 8
+----------------------
+La distancia de edición mínima entre "nagkvyhgbe" y "ftmdwmwomz" es: 34
+Tiempo de ejecución: 3425843478 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'e' por 'z': 3
+Costo de sustituir 'b' por 'm': 6
+Costo de insertar 'o': 3
+Costo de sustituir 'g' por 'w': 3
+Costo de eliminar 'h': 3
+Costo de sustituir 'y' por 'm': 2
+Costo de eliminar 'v': 2
+Costo de sustituir 'k' por 'w': 3
+Costo de sustituir 'g' por 'd': 5
+Costo de insertar 'm': 2
+Costo de sustituir 'a' por 't': 1
+Costo de sustituir 'n' por 'f': 1
+----------------------
+La distancia de edición mínima entre "qef" y "wgm" es: 15
+Tiempo de ejecución: 29160 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'f': 5
+Costo de sustituir 'e' por 'm': 2
+Costo de sustituir 'q' por 'g': 2
+Costo de insertar 'w': 6
+----------------------
+La distancia de edición mínima entre "tvsg" y "dmdg" es: 13
+Tiempo de ejecución: 100772 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'd': 5
+Costo de sustituir 's' por 'm': 3
+Costo de eliminar 'v': 2
+Costo de sustituir 't' por 'd': 3
+----------------------
+La distancia de edición mínima entre "tqh" y "lwi" es: 11
+Tiempo de ejecución: 23352 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'h' por 'i': 2
+Costo de insertar 'w': 6
+Costo de sustituir 'q' por 'l': 1
+Costo de eliminar 't': 2
+----------------------
+La distancia de edición mínima entre "oxqeuv" y "yyjeme" es: 22
+Tiempo de ejecución: 4533622 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'v': 2
+Costo de eliminar 'u': 4
+Costo de sustituir 'q' por 'm': 4
+Costo de sustituir 'x' por 'e': 7
+Costo de sustituir 'o' por 'j': 3
+Costo de insertar 'y': 1
+Costo de insertar 'y': 1
+----------------------
+La distancia de edición mínima entre "okdrpkidg" y "izalvgdyw" es: 29
+Tiempo de ejecución: 756147181 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'g' por 'w': 3
+Costo de insertar 'y': 1
+Costo de sustituir 'i' por 'g': 5
+Costo de sustituir 'k' por 'v': 4
+Costo de sustituir 'p' por 'l': 1
+Costo de insertar 'a': 2
+Costo de sustituir 'r' por 'z': 1
+Costo de eliminar 'd': 1
+Costo de sustituir 'k' por 'i': 2
+Costo de eliminar 'o': 9
+----------------------
+La distancia de edición mínima entre "vyatfcotw" y "vytivqvcp" es: 24
+Tiempo de ejecución: 727454275 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'w' por 'p': 3
+Costo de eliminar 't': 2
+Costo de insertar 'c': 3
+Costo de sustituir 'o' por 'v': 8
+Costo de sustituir 'c' por 'q': 1
+Costo de sustituir 'f' por 'v': 4
+Costo de insertar 'i': 2
+Costo de eliminar 'a': 1
+----------------------
+La distancia de edición mínima entre "yoxg" y "wsgg" es: 20
+Tiempo de ejecución: 117347 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'x': 7
+Costo de sustituir 'o' por 'g': 5
+Costo de sustituir 'y' por 's': 2
+Costo de insertar 'w': 6
+----------------------
+La distancia de edición mínima entre "wukc" y "zvdw" es: 13
+Tiempo de ejecución: 130599 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'c' por 'w': 3
+Costo de sustituir 'k' por 'd': 6
+Costo de sustituir 'u' por 'v': 2
+Costo de sustituir 'w' por 'z': 2
+----------------------
+La distancia de edición mínima entre "bknhsulvo" y "hdlypoehl" es: 38
+Tiempo de ejecución: 695528077 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'o' por 'l': 4
+Costo de sustituir 'v' por 'h': 4
+Costo de sustituir 'l' por 'e': 5
+Costo de sustituir 'u' por 'o': 1
+Costo de sustituir 's' por 'p': 4
+Costo de eliminar 'h': 3
+Costo de eliminar 'n': 5
+Costo de sustituir 'k' por 'y': 1
+Costo de insertar 'l': 3
+Costo de sustituir 'b' por 'd': 6
+Costo de insertar 'h': 2
+----------------------
+La distancia de edición mínima entre "nqakjbfoxi" y "vxqyomstsi" es: 27
+Tiempo de ejecución: 3483040782 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'x' por 's': 6
+Costo de sustituir 'o' por 't': 2
+Costo de eliminar 'f': 5
+Costo de sustituir 'b' por 's': 2
+Costo de insertar 'm': 2
+Costo de sustituir 'j' por 'o': 3
+Costo de insertar 'y': 1
+Costo de sustituir 'k' por 'q': 2
+Costo de eliminar 'a': 1
+Costo de sustituir 'q' por 'x': 1
+Costo de sustituir 'n' por 'v': 2
+----------------------
+La distancia de edición mínima entre "paflhww" y "vwcxmtl" es: 26
+Tiempo de ejecución: 21810558 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'w' por 'l': 4
+Costo de insertar 't': 4
+Costo de sustituir 'w' por 'm': 2
+Costo de sustituir 'h' por 'x': 8
+Costo de sustituir 'l' por 'c': 3
+Costo de sustituir 'f' por 'w': 1
+Costo de eliminar 'a': 1
+Costo de sustituir 'p' por 'v': 3
+----------------------
+La distancia de edición mínima entre "xvx" y "afc" es: 13
+Tiempo de ejecución: 62624 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'x' por 'c': 6
+Costo de eliminar 'v': 2
+Costo de sustituir 'x' por 'f': 3
+Costo de insertar 'a': 2
+----------------------
+La distancia de edición mínima entre "ase" y "amihqt" es: 9
+Tiempo de ejecución: 327907 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'e' por 't': 2
+Costo de sustituir 's' por 'q': 1
+Costo de insertar 'h': 2
+Costo de insertar 'i': 2
+Costo de insertar 'm': 2
+----------------------
+La distancia de edición mínima entre "odfu" y "olkgoaigqyw" es: 32
+Tiempo de ejecución: 9455713 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'w': 6
+Costo de insertar 'y': 1
+Costo de insertar 'q': 4
+Costo de insertar 'g': 6
+Costo de insertar 'i': 2
+Costo de insertar 'a': 2
+Costo de insertar 'o': 3
+Costo de sustituir 'u' por 'g': 2
+Costo de sustituir 'f' por 'k': 3
+Costo de sustituir 'd' por 'l': 3
+----------------------
+La distancia de edición mínima entre "kcrhiynck" y "zmwuzwxrjsf" es: 29
+Tiempo de ejecución: 3078811928 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'k' por 'f': 3
+Costo de sustituir 'c' por 's': 1
+Costo de insertar 'j': 1
+Costo de sustituir 'n' por 'r': 3
+Costo de sustituir 'y' por 'x': 3
+Costo de sustituir 'i' por 'w': 6
+Costo de sustituir 'h' por 'z': 1
+Costo de insertar 'u': 3
+Costo de sustituir 'r' por 'w': 2
+Costo de sustituir 'c' por 'm': 3
+Costo de sustituir 'k' por 'z': 3
+----------------------
+La distancia de edición mínima entre "rjdbsvbkx" y "pvkzjxevxxy" es: 36
+Tiempo de ejecución: 2774703038 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'y': 1
+Costo de insertar 'x': 5
+Costo de sustituir 'k' por 'v': 4
+Costo de sustituir 'b' por 'e': 2
+Costo de sustituir 'v' por 'x': 2
+Costo de sustituir 's' por 'j': 2
+Costo de sustituir 'b' por 'z': 4
+Costo de eliminar 'd': 1
+Costo de sustituir 'j' por 'k': 6
+Costo de sustituir 'r' por 'v': 2
+Costo de insertar 'p': 7
+----------------------
+La distancia de edición mínima entre "paosjkoxe" y "wpfgallaznm" es: 32
+Tiempo de ejecución: 3506252234 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'm': 2
+Costo de sustituir 'e' por 'n': 2
+Costo de sustituir 'x' por 'z': 2
+Costo de sustituir 'o' por 'a': 1
+Costo de sustituir 'k' por 'l': 8
+Costo de sustituir 'j' por 'l': 1
+Costo de insertar 'a': 2
+Costo de sustituir 's' por 'g': 6
+Costo de sustituir 'o' por 'f': 3
+Costo de sustituir 'a' por 'p': 2
+Costo de sustituir 'p' por 'w': 3
+----------------------
+La distancia de edición mínima entre "dnoiaraltx" y "phschbxnneb" es: 43
+Tiempo de ejecución: 7304686402 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'x' por 'b': 7
+Costo de sustituir 't' por 'e': 2
+Costo de sustituir 'l' por 'n': 3
+Costo de eliminar 'a': 1
+Costo de sustituir 'r' por 'n': 3
+Costo de insertar 'x': 5
+Costo de sustituir 'a' por 'b': 2
+Costo de sustituir 'i' por 'h': 2
+Costo de sustituir 'o' por 'c': 7
+Costo de sustituir 'n' por 's': 4
+Costo de insertar 'h': 2
+Costo de sustituir 'd' por 'p': 5
+----------------------
+La distancia de edición mínima entre "hcrdshd" y "easscwjqq" es: 29
+Tiempo de ejecución: 86465295 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'd': 1
+Costo de eliminar 'h': 3
+Costo de sustituir 's' por 'q': 1
+Costo de eliminar 'd': 1
+Costo de insertar 'q': 4
+Costo de insertar 'j': 1
+Costo de sustituir 'r' por 'w': 2
+Costo de insertar 'c': 3
+Costo de sustituir 'c' por 's': 1
+Costo de sustituir 'h' por 's': 4
+Costo de insertar 'a': 2
+Costo de insertar 'e': 6
+----------------------
+La distancia de edición mínima entre "qic" y "xpyp" es: 16
+Tiempo de ejecución: 50593 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'c' por 'p': 8
+Costo de insertar 'y': 1
+Costo de sustituir 'i' por 'p': 6
+Costo de sustituir 'q' por 'x': 1
+----------------------
+La distancia de edición mínima entre "rhvgbz" y "uhhckwq" es: 28
+Tiempo de ejecución: 8319117 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'z': 6
+Costo de sustituir 'b' por 'q': 4
+Costo de sustituir 'g' por 'w': 3
+Costo de sustituir 'v' por 'k': 4
+Costo de insertar 'c': 3
+Costo de insertar 'h': 2
+Costo de sustituir 'r' por 'u': 6
+----------------------
+La distancia de edición mínima entre "vzijs" y "jqgpurnd" es: 23
+Tiempo de ejecución: 5804383 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'd': 5
+Costo de sustituir 's' por 'n': 4
+Costo de insertar 'r': 1
+Costo de sustituir 'j' por 'u': 1
+Costo de sustituir 'i' por 'p': 6
+Costo de sustituir 'z' por 'g': 4
+Costo de sustituir 'v' por 'q': 1
+Costo de insertar 'j': 1
+----------------------
+La distancia de edición mínima entre "phgainvpc" y "nxvcfoxsmn" es: 37
+Tiempo de ejecución: 1314057279 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'c' por 'n': 5
+Costo de insertar 'm': 2
+Costo de sustituir 'p' por 's': 4
+Costo de sustituir 'v' por 'x': 2
+Costo de insertar 'o': 3
+Costo de sustituir 'n' por 'f': 1
+Costo de sustituir 'i' por 'c': 4
+Costo de eliminar 'a': 1
+Costo de sustituir 'g' por 'v': 1
+Costo de eliminar 'h': 3
+Costo de sustituir 'p' por 'x': 5
+Costo de insertar 'n': 6
+----------------------
+La distancia de edición mínima entre "hzrll" y "dbgrydjzkal" es: 29
+Tiempo de ejecución: 23125866 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'a': 2
+Costo de insertar 'k': 6
+Costo de insertar 'z': 6
+Costo de insertar 'j': 1
+Costo de sustituir 'l' por 'd': 3
+Costo de insertar 'y': 1
+Costo de insertar 'r': 1
+Costo de sustituir 'r' por 'g': 1
+Costo de sustituir 'z' por 'b': 4
+Costo de sustituir 'h' por 'd': 4
+----------------------
+La distancia de edición mínima entre "bhqlcdrsgv" y "iuuymtooyfs" es: 35
+Tiempo de ejecución: 7960060771 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'v' por 's': 3
+Costo de sustituir 'g' por 'f': 6
+Costo de sustituir 's' por 'y': 2
+Costo de sustituir 'r' por 'o': 1
+Costo de eliminar 'd': 1
+Costo de insertar 'o': 3
+Costo de sustituir 'c' por 't': 6
+Costo de sustituir 'l' por 'm': 1
+Costo de sustituir 'q' por 'y': 1
+Costo de sustituir 'h' por 'u': 6
+Costo de sustituir 'b' por 'u': 3
+Costo de insertar 'i': 2
+----------------------
+La distancia de edición mínima entre "ytugkhtez" y "qdjqelyptdw" es: 32
+Tiempo de ejecución: 2683484563 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'z' por 'w': 2
+Costo de insertar 'd': 5
+Costo de sustituir 'e' por 't': 2
+Costo de sustituir 't' por 'p': 4
+Costo de eliminar 'h': 3
+Costo de insertar 'y': 1
+Costo de insertar 'l': 3
+Costo de sustituir 'k' por 'e': 5
+Costo de sustituir 'g' por 'q': 2
+Costo de sustituir 'u' por 'j': 1
+Costo de sustituir 't' por 'd': 3
+Costo de sustituir 'y' por 'q': 1
+----------------------
+La distancia de edición mínima entre "enbotbgz" y "uqiqwufxw" es: 32
+Tiempo de ejecución: 244355741 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'z' por 'w': 2
+Costo de sustituir 'g' por 'x': 6
+Costo de sustituir 'b' por 'f': 4
+Costo de eliminar 't': 2
+Costo de sustituir 'o' por 'u': 1
+Costo de sustituir 'b' por 'w': 4
+Costo de sustituir 'n' por 'q': 2
+Costo de insertar 'i': 2
+Costo de sustituir 'e' por 'q': 6
+Costo de insertar 'u': 3
+----------------------
+La distancia de edición mínima entre "knkjhakp" y "hyyyaijrvfn" es: 31
+Tiempo de ejecución: 1010848471 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'p': 3
+Costo de sustituir 'k' por 'n': 7
+Costo de sustituir 'a' por 'f': 3
+Costo de sustituir 'h' por 'v': 4
+Costo de insertar 'r': 1
+Costo de sustituir 'k' por 'i': 2
+Costo de eliminar 'n': 5
+Costo de insertar 'a': 2
+Costo de insertar 'y': 1
+Costo de insertar 'y': 1
+Costo de insertar 'y': 1
+Costo de sustituir 'k' por 'h': 1
+----------------------
+La distancia de edición mínima entre "dmqqpd" y "igpzodxduf" es: 32
+Tiempo de ejecución: 52443559 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'f': 6
+Costo de insertar 'u': 3
+Costo de insertar 'd': 5
+Costo de insertar 'x': 5
+Costo de insertar 'o': 3
+Costo de sustituir 'p' por 'z': 1
+Costo de sustituir 'q' por 'p': 1
+Costo de sustituir 'q' por 'g': 2
+Costo de sustituir 'm' por 'i': 5
+Costo de eliminar 'd': 1
+----------------------
+La distancia de edición mínima entre "v" y "vknknx" es: 29
+Tiempo de ejecución: 10809 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'x': 5
+Costo de insertar 'n': 6
+Costo de insertar 'k': 6
+Costo de insertar 'n': 6
+Costo de insertar 'k': 6
+----------------------
+La distancia de edición mínima entre "toh" y "ggilowqs" es: 29
+Tiempo de ejecución: 392812 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'h' por 's': 4
+Costo de insertar 'q': 4
+Costo de insertar 'w': 6
+Costo de insertar 'l': 3
+Costo de insertar 'i': 2
+Costo de insertar 'g': 6
+Costo de sustituir 't' por 'g': 4
+----------------------
+La distancia de edición mínima entre "g" y "ovzpvubg" es: 39
+Tiempo de ejecución: 15256 nanosegundos
+Operaciones utilizadas: 
+Costo de insertar 'g': 6
+Costo de sustituir 'g' por 'b': 2
+Costo de insertar 'u': 3
+Costo de insertar 'v': 6
+Costo de insertar 'p': 7
+Costo de insertar 'z': 6
+Costo de insertar 'v': 6
+Costo de insertar 'o': 3
+----------------------
+La distancia de edición mínima entre "vqxb" y "ib" es: 13
+Tiempo de ejecución: 15990 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'x': 7
+Costo de eliminar 'q': 4
+Costo de sustituir 'v' por 'i': 2
+----------------------
+La distancia de edición mínima entre "rilw" y "aqe" es: 21
+Tiempo de ejecución: 46255 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'w' por 'e': 7
+Costo de sustituir 'l' por 'q': 1
+Costo de sustituir 'i' por 'a': 9
+Costo de eliminar 'r': 4
+----------------------
+La distancia de edición mínima entre "yxqcb" y "iz" es: 26
+Tiempo de ejecución: 24865 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'b': 9
+Costo de eliminar 'c': 5
+Costo de eliminar 'q': 4
+Costo de sustituir 'x' por 'z': 2
+Costo de sustituir 'y' por 'i': 6
+----------------------
+La distancia de edición mínima entre "mf" y "u" es: 7
+Tiempo de ejecución: 1885 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'f': 5
+Costo de sustituir 'm' por 'u': 2
+----------------------
+La distancia de edición mínima entre "hmqganfw" y "jrtshbx" es: 24
+Tiempo de ejecución: 41918840 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'w': 7
+Costo de sustituir 'f' por 'x': 3
+Costo de eliminar 'n': 5
+Costo de eliminar 'a': 1
+Costo de sustituir 'g' por 'b': 2
+Costo de insertar 'h': 2
+Costo de sustituir 'q' por 's': 1
+Costo de sustituir 'm' por 't': 1
+Costo de insertar 'r': 1
+Costo de sustituir 'h' por 'j': 1
+----------------------
+La distancia de edición mínima entre "teeeh" y "rv" es: 24
+Tiempo de ejecución: 56392 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'h': 3
+Costo de eliminar 'e': 9
+Costo de sustituir 'e' por 'v': 9
+Costo de sustituir 'e' por 'r': 1
+Costo de eliminar 't': 2
+----------------------
+La distancia de edición mínima entre "fs" y "q" es: 6
+Tiempo de ejecución: 4134 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 's' por 'q': 1
+Costo de eliminar 'f': 5
+----------------------
+La distancia de edición mínima entre "fgkh" y "nvs" es: 9
+Tiempo de ejecución: 87422 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'h': 3
+Costo de sustituir 'k' por 's': 4
+Costo de sustituir 'g' por 'v': 1
+Costo de sustituir 'f' por 'n': 1
+----------------------
+La distancia de edición mínima entre "cr" y "a" es: 9
+Tiempo de ejecución: 2438 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'r': 4
+Costo de sustituir 'c' por 'a': 5
+----------------------
+La distancia de edición mínima entre "wogsf" y "p" es: 33
+Tiempo de ejecución: 7210 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'f': 5
+Costo de eliminar 's': 7
+Costo de eliminar 'g': 9
+Costo de eliminar 'o': 9
+Costo de sustituir 'w' por 'p': 3
+----------------------
+La distancia de edición mínima entre "muubnttszi" y "ad" es: 40
+Tiempo de ejecución: 210441 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'i': 8
+Costo de sustituir 'z' por 'd': 2
+Costo de eliminar 's': 7
+Costo de eliminar 't': 2
+Costo de eliminar 't': 2
+Costo de eliminar 'n': 5
+Costo de sustituir 'b' por 'a': 2
+Costo de eliminar 'u': 4
+Costo de eliminar 'u': 4
 Costo de eliminar 'm': 4
-Costo de sustituir 'c' por 'v': 3
+----------------------
+La distancia de edición mínima entre "uxaznr" y "r" es: 22
+Tiempo de ejecución: 12662 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'r': 4
+Costo de eliminar 'n': 5
+Costo de sustituir 'z' por 'r': 1
+Costo de eliminar 'a': 1
+Costo de eliminar 'x': 7
+Costo de eliminar 'u': 4
+----------------------
+La distancia de edición mínima entre "rw" y "u" es: 9
+Tiempo de ejecución: 2309 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'w' por 'u': 5
+Costo de eliminar 'r': 4
+----------------------
+La distancia de edición mínima entre "mjmrlvnirkj" y "ergsgv" es: 44
+Tiempo de ejecución: 86426418 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'j': 8
+Costo de eliminar 'k': 5
+Costo de eliminar 'r': 4
+Costo de sustituir 'i' por 'v': 2
+Costo de eliminar 'n': 5
+Costo de sustituir 'v' por 'g': 1
+Costo de sustituir 'l' por 's': 4
+Costo de sustituir 'r' por 'g': 1
+Costo de sustituir 'm' por 'r': 5
+Costo de sustituir 'j' por 'e': 5
+Costo de eliminar 'm': 4
+----------------------
+La distancia de edición mínima entre "haosfjgyvfr" y "pyh" es: 45
+Tiempo de ejecución: 996486 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'r': 4
+Costo de eliminar 'f': 5
+Costo de eliminar 'v': 2
+Costo de eliminar 'y': 8
+Costo de eliminar 'g': 9
+Costo de sustituir 'j' por 'h': 1
+Costo de eliminar 'f': 5
+Costo de sustituir 's' por 'y': 2
+Costo de sustituir 'o' por 'p': 5
+Costo de eliminar 'a': 1
+Costo de eliminar 'h': 3
+----------------------
+La distancia de edición mínima entre "tohdjw" y "pkym" es: 18
+Tiempo de ejecución: 456177 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'w' por 'm': 2
+Costo de sustituir 'j' por 'y': 7
+Costo de eliminar 'd': 1
+Costo de sustituir 'h' por 'k': 1
+Costo de sustituir 'o' por 'p': 5
+Costo de eliminar 't': 2
+----------------------
+La distancia de edición mínima entre "qwdjuscc" y "mkyxd" es: 31
+Tiempo de ejecución: 4585342 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'c' por 'd': 6
+Costo de sustituir 'c' por 'x': 6
+Costo de sustituir 's' por 'y': 2
+Costo de eliminar 'u': 4
+Costo de sustituir 'j' por 'k': 6
+Costo de eliminar 'd': 1
+Costo de sustituir 'w' por 'm': 2
+Costo de eliminar 'q': 4
+----------------------
+La distancia de edición mínima entre "ujutpmelv" y "zmm" es: 28
+Tiempo de ejecución: 582658 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'v': 2
+Costo de sustituir 'l' por 'm': 1
+Costo de sustituir 'e' por 'm': 2
+Costo de eliminar 'm': 4
+Costo de sustituir 'p' por 'z': 1
+Costo de eliminar 't': 2
+Costo de eliminar 'u': 4
+Costo de eliminar 'j': 8
+Costo de eliminar 'u': 4
+----------------------
+La distancia de edición mínima entre "tnlowe" y "e" es: 31
+Tiempo de ejecución: 9637 nanosegundos
+Operaciones utilizadas: 
+Costo de eliminar 'w': 7
+Costo de eliminar 'o': 9
+Costo de eliminar 'l': 8
+Costo de eliminar 'n': 5
+Costo de eliminar 't': 2
+----------------------
+La distancia de edición mínima entre "fjvjtizzewz" y "ciwx" es: 48
+Tiempo de ejecución: 5159206 nanosegundos
+Operaciones utilizadas: 
+Costo de sustituir 'z' por 'x': 2
+Costo de eliminar 'e': 9
+Costo de eliminar 'z': 6
+Costo de eliminar 'z': 6
+Costo de eliminar 't': 2
+Costo de eliminar 'j': 8
+Costo de eliminar 'v': 2
+Costo de sustituir 'j' por 'c': 8
+Costo de eliminar 'f': 5
 ----------------------
